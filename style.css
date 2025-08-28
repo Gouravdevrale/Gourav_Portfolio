@@ -40,6 +40,7 @@ body {
     transition: .3s;
 }
 
+
 .header.sticky {
     background: var(--bg-color);
 }
